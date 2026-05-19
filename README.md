@@ -1,4 +1,4 @@
-# Purchase Management System
+# Purchase System Project Test 
 
 A professional Purchase Management System built with Laravel, Livewire, Alpine.js, and Laravel Breeze.
 
